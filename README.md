@@ -1,7 +1,5 @@
 # PowerShell-Security-Audit
 
-# PowerShell Security Audit
-
 This repository contains PowerShell scripts that help detect malicious processes, suspicious files, and trigger Windows Defender scans on Windows systems.
 
 ## Features
