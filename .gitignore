@@ -1,0 +1,10 @@
+# Ignore PowerShell profile files
+*.ps1xml
+*.psm1
+
+# Ignore files created by PowerShell ISE
+*.swp
+
+# Logs and cache
+*.log
+.cache
